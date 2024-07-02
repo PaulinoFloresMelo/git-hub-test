@@ -1,0 +1,8 @@
+La especificación de confirmaciones convencionales es una convención liviana que se basa en los mensajes de confirmación. 
+Proporciona un conjunto sencillo de reglas para crear un historial de confirmaciones explícito, lo que facilita la escritura
+de herramientas automatizadas. Esta convención encaja con SemVer , ya que describe las características, las correcciones
+y los cambios importantes que se realizan en los mensajes de confirmación.
+
+https://www.conventionalcommits.org/en/v1.0.0/
+
+https://www.conventionalcommits.org/en/v1.0.0/
